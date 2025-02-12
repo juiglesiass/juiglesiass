@@ -1,16 +1,11 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7E6CE0&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Julia+Iglesias!;Seja+bem+vindo+ao+meu+perfil!%F0%9F%91%8B" alt="Typing SVG" /></a>
+- 🚀 Em transição de carreira: de Contábeis para Front-End
+- 🎓 Cursando graduação e técnico em Desenvolvimento de Sistemas
+- 🌱 Hoje estudo HTML e CSS
+- ⚡ Fun fact: não, eu não sou parente do Enrique Iglesias
 
-<!--
-**juiglesiass/juiglesiass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/juiglesiass">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juiglesiass&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juiglesiass&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
