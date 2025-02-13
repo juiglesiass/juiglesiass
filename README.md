@@ -13,6 +13,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img width="17%" height="17%" margin="30px" align="right" alt="pixel-art" src="https://cdn.discordapp.com/attachments/903447462763712523/1339678323315314718/pixel-art-gif.gif?ex=67af982a&is=67ae46aa&hm=da6254ecd1ed34150e3a9e29a4419f87d7802455c648425264c76707ec4de0e8&"
 </div>
 
   ##
