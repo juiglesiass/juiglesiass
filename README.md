@@ -13,7 +13,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img width="17%" height="17%" margin="30px" align="right" alt="pixel-art" src="https://cdn.discordapp.com/attachments/903447462763712523/1339678323315314718/pixel-art-gif.gif?ex=67af982a&is=67ae46aa&hm=da6254ecd1ed34150e3a9e29a4419f87d7802455c648425264c76707ec4de0e8&"
 </div>
 
   ##
@@ -22,12 +21,11 @@
   <a href = "mailto:byjuliaiglesias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/julia-fran%C3%A7a-iglesias-29bb81200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/juliafiglesias" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <img width="23%" height="23%" margin="30px" align="right" alt="pixel-art" src="https://cdn.discordapp.com/attachments/903447462763712523/1339678323315314718/pixel-art-gif.gif?ex=67af982a&is=67ae46aa&hm=da6254ecd1ed34150e3a9e29a4419f87d7802455c648425264c76707ec4de0e8&"
 </div>
- 
- <div>
-   
-<h2>Hobbies:</h2>
-<img width="15%" height="15%" margin="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Valorant_logo_-_pink_color_version.svg/2560px-Valorant_logo_-_pink_color_version.svg.png"/>
-<img width="15%" height="15%" margin="30px" src="https://media.discordapp.net/attachments/903447462763712523/1339683677721989250/Design_sem_nome.png?ex=67af9d26&is=67ae4ba6&hm=07b3df7e8ffc809b4cc7c236b40c87f560ea007f39ca72dd29b23bab93c6763f&=&format=webp&quality=lossless&width=391&height=391"/> 
-
+  
+<div>
+  <h2>Hobbies:</h2>
+    <img width="15%" height="15%" margin="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Valorant_logo_-_pink_color_version.svg/2560px-Valorant_logo_-_pink_color_version.svg.png"/>
+    <img width="15%" height="15%" margin="30px" src="https://media.discordapp.net/attachments/903447462763712523/1339683677721989250/Design_sem_nome.png?ex=67af9d26&is=67ae4ba6&hm=07b3df7e8ffc809b4cc7c236b40c87f560ea007f39ca72dd29b23bab93c6763f&=&format=webp&quality=lossless&width=391&height=391"/> 
 </div>
