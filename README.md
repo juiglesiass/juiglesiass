@@ -28,5 +28,6 @@
    
 <h2>Hobbies:</h2>
 <img width="15%" height="15%" margin="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Valorant_logo_-_pink_color_version.svg/2560px-Valorant_logo_-_pink_color_version.svg.png"/>
+<img width="15%" height="15%" margin="30px" src="https://media.discordapp.net/attachments/903447462763712523/1339683677721989250/Design_sem_nome.png?ex=67af9d26&is=67ae4ba6&hm=07b3df7e8ffc809b4cc7c236b40c87f560ea007f39ca72dd29b23bab93c6763f&=&format=webp&quality=lossless&width=391&height=391"/> 
 
 </div>
