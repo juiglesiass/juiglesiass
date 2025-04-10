@@ -13,7 +13,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Julia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Julia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Julia-C" height="35" width="40" src="https://media.discordapp.net/attachments/903447462763712523/1354930341139320913/c-programming.png?ex=67e714b6&is=67e5c336&hm=c2458b86c6b700bfab3a95df58f98e2dbefe24b8fb7320da8d1533596ff40cd0&=&format=webp&quality=lossless">
+  <img align="center" alt="Julia-C" height="35" width="40" src="https://i.postimg.cc/X7dVYpwR/c-programming.png">
 
 </div>
 
