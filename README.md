@@ -31,5 +31,5 @@
   <h2>Hobbies:</h2>
     <img width="15%" height="15%" margin="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Valorant_logo_-_pink_color_version.svg/2560px-Valorant_logo_-_pink_color_version.svg.png"/>
     <img width="15%" height="15%" margin="30px" src="https://i.postimg.cc/Vkq89pv5/fut.png"/> 
-    <img width="15%" height="15%" margin="40px" src="https://ibb.co/tMqZCg49"/>
+    <img width="15%" height="15%" margin="40px" src="https://i.ibb.co/QFP8mLf4/ping.png"/>
 </div>
