@@ -32,4 +32,5 @@
     <img width="15%" height="15%" margin="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Valorant_logo_-_pink_color_version.svg/2560px-Valorant_logo_-_pink_color_version.svg.png"/>
     <img width="15%" height="15%" margin="30px" src="https://i.postimg.cc/Vkq89pv5/fut.png"/> 
     <img width="15%" height="15%" margin="40px" src="https://i.postimg.cc/pX1Tmkq6/ping.png"/>
+    <img width="15%" heigth="15%" margin="40px" src="https://png.pngtree.com/png-vector/20191001/ourlarge/pngtree-set-of-playing-card-symbols-icon-flat-style-png-image_1783355.jpg"/>
 </div>
